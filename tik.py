@@ -22,17 +22,7 @@ u = '   ,    '
 os.system('clear')
     
 
-print(Fore.RED +'\t\t\t\t░█████╗░██████╗░░█████╗░')
-time.sleep(0.3)
-print(Fore.RED +'\t\t\t\t██╔══██╗██╔══██╗██╔══██╗')
-time.sleep(0.3)
-print(Fore.RED +'\t\t\t\t╚█████╔╝██████╔╝╚██████║')
-time.sleep(0.3)
-print(Fore.RED +'\t\t\t\t██╔══██╗██╔══██╗░╚═══██║')
-time.sleep(0.3)
-print(Fore.RED +'\t\t\t\t╚█████╔╝██║░░██║░█████╔╝')
-time.sleep(0.3)
-print(Fore.RED +'\t\t\t\t░╚════╝░╚═╝░░╚═╝░╚════╝░\n')
+
 time.sleep(0.3)
 
 
